@@ -93,7 +93,8 @@
     <h2>Welcome to Unscripted SMP</h2>
     <p>We are a Minecraft SMP server tailored to your playstyle. Build, farm, fight, and explore — the choice is yours!</p>
     <p><strong>Server IP:</strong> Unscripted_SMP.aternos.me</p>
-    <a class="join-btn" href="#">Join Now</a>
+    [![Join our Discord] https://discord.gg/RNYBhsXhp7
+
   </section>
 
   <section id="features">

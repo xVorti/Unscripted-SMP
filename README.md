@@ -120,9 +120,9 @@
 
   <section id="team">
     <h2>Our Team</h2>
-    <p><strong>Owner:</strong> [Your Name]</p>
-    <p><strong>Admins:</strong> [Add names here]</p>
-    <p><strong>Moderators:</strong> [Add names here]</p>
+    <p><strong>Owner:</strong> [VortiTheRedstone]</p>
+    <p><strong>Admins:</strong> [_CLEMON_,]</p>
+    <p><strong>Moderators:</strong> [Still open! Sign up on our Discord to join.]</p>
   </section>
 
   <footer>

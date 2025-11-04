@@ -111,7 +111,7 @@
     <h2>Rules</h2>
     <ol>
       <li>Be respectful to all players.</li>
-      <li>No griefing or stealing.</li>
+      <li>No Compat Logging and No TP in compat (you can fly ore run away in a fight)</li>
       <li>No hacks or cheats of any kind.</li>
       <li>Keep chat friendly and appropriate.</li>
       <li>Have fun and play fair!</li>
@@ -126,7 +126,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Unscripted SMP | Hosted on GitHub Pages</p>
+    <p>© 2025 Unscripted SMP | Hosted by VortiTheRedstone</p>
   </footer>
 
 </body>
